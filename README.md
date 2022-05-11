@@ -8,13 +8,12 @@ After adding our bot and the SlashCommand feature to your server, you will see t
 
 Here is an example, thanks for choosing us! (Don't worry, Papa Franku is our testing bot)
 
-![example](https://338.rocks/slash-example.gif)
 
-# 💌 Invite Bot
+# 💌 Invite Bot (Soon)
 
--   [Click here to add slash commands](https://discord.com/oauth2/authorize?client_id=602764196622499840&scope=applications.commands) (required)
--   [Click here to add actual bot](https://discord.com/oauth2/authorize?client_id=602764196622499840&scope=bot&permissions=268725328)
--   [Support Server](https://discord.gg/BjEJFwh)
+-   [Click here to add slash commands](https://discord.com/oauth2/authorize?client_id=&scope=applications.commands) (required)
+-   [Click here to add actual bot](https://discord.com/oauth2/authorize?client_id=&scope=bot&permissions=268725328)
+-   [Support Server](https://discord.gg/)
 
 # 🥽 Data Types (For Developers)
 
