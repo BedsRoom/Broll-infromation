@@ -6,9 +6,6 @@ SlashLevel offers your server a level system with `SlashCommand` feature. SlahCo
 In order to benefit from this feature, **you have to invite the bot with `SlashCommand` invite url**.
 After adding our bot and the SlashCommand feature to your server, you will see the commands and explanations offered by our bot by typing `/` in any of the text channels.
 
-Here is an example, thanks for choosing us! (Don't worry, Papa Franku is our testing bot)
-
-
 # 💌 Invite Bot (Soon)
 
 -   [Click here to add slash commands](https://discord.com/oauth2/authorize?client_id=&scope=applications.commands) (required)
